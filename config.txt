@@ -1,0 +1,6 @@
+token=NDkzNDkxMTQwMzgxNjM4Njc4.Dolveg.cgTJu1H0TFAwawUPq8egqYcxKj0
+owner=201460488037466112
+prefix=1
+game=2help - Ark 5 Music??
+stayinchannel=true
+songinstatus=true
