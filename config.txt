@@ -1,4 +1,4 @@
-token=NDkzNDkxMTQwMzgxNjM4Njc4.Dolveg.cgTJu1H0TFAwawUPq8egqYcxKj0
+token=
 owner=201460488037466112
 prefix=2
 game=2help - Lunarium Joky
